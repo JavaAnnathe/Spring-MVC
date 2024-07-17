@@ -1,0 +1,21 @@
+1.Create a Maven web project
+2.
+3.Update pom.xml with entries for spring MVC
+4.Update web.xml to configure dispatcher servlet
+5.Configure view resolver bean and use component scan tag in a xml file
+6.Create package under src/main/java
+7.Create view folder under web-inf folder
+8.Create JSP file inside view folder
+9.Create controller class inside the package under src/main/java
+
+
+/WEB-INF/view/main-menu.jsp
+
+
+
+
+
+
+
+
+

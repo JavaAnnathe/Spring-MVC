@@ -1,0 +1,7 @@
+Go to "Window" -> "Preferences"
+.
+Navigate to "General" -> "Network Connections".
+
+Select "Manual" as the Active Provider.
+
+Restart Tomcat.
